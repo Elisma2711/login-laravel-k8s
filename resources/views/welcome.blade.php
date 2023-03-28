@@ -10,8 +10,7 @@
 
     <body style="font: oblique bold 125% cursive; text-align:center">
 
-        <h1>LOGIN CON DOBLE FACTOR DE AUTENTICACION</h1>
-        <h2>INGENIERIA DE SOFTWARE II</h2><hr>
+        <h1>PROGRAMACION</h1>
 
         @if (Route::has('login'))
 
